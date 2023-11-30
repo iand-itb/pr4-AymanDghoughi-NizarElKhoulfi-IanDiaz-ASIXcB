@@ -5,3 +5,4 @@ M03 UF1 pp4
 Descripció: Programa que mostra un triangle amb nombres a les cantonades.
 """
 
+alçada = int(input())

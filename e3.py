@@ -7,7 +7,7 @@ senars i de tots els nombres parells inferiors a un número límit.
 """
 
 try:
-    num = int(input())
+    num = int(input("Donam un límit: "))
     sumaParells = 0
     sumaSenars = 0
     for i in range(num):
