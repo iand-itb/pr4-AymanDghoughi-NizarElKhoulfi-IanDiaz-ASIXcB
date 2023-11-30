@@ -15,4 +15,3 @@ for num in nums:
         zeros += 1
 
 print("Has introduït " + str(positius) + " nombre/s positius, " + str(negatius) + " negatius, i " + str(zeros) + " zeros.")
-print(nums)
