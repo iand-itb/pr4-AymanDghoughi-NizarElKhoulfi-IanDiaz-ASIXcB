@@ -1,3 +1,11 @@
+""""
+Ayman Dghoughi, Ian Díaz, Nizar ElKhoulfi
+30/11/2023
+M03 UF1 pp4
+Descripció: Programa que mostra per pantalla la suma de tots els nombres
+senars i de tots els nombres parells inferiors a un número límit.
+"""
+
 try:
     num = int(input())
     sumaParells = 0
