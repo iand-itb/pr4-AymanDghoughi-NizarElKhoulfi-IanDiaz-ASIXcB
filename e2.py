@@ -4,6 +4,7 @@ Ayman Dghoughi, Ian Díaz, Nizar ElK
 M03 UF1 pp4
 Descripció: Programa que mostra un triangle amb nombres a les cantonades.
 """
+
 try:
     alçada = int(input("Donam una alçada entre el 2 i el 9: "))
     for i in range(1, alçada + 1):
