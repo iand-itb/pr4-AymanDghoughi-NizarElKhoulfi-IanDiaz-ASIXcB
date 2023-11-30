@@ -6,5 +6,5 @@ for i in range(1, 9):
             print(BLANC, end="")
         else:
             print(NEGRE, end="")
-        #print(" ", end="")
+        print(" ", end="")
     print()
