@@ -19,3 +19,5 @@ try:
 except Exception as e:
     if ValueError:
         print("Si us plau, introdueix només nombres enters.")
+    else:
+        print(e)
