@@ -1,3 +1,10 @@
+""""
+Ayman Dghoughi, Ian Díaz, Nizar ElKhoulfi
+30/11/2023
+M03 UF1 pp4
+Descripció: Programa que realitza la multiplicació, de dos nombres sencers, mitjançant sumes.
+"""
+
 try:
     nombres = input("Introdueix dos nombres a sumar separats per un espai: ")
     nums = nombres.split()

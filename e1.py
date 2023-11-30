@@ -1,3 +1,11 @@
+""""
+Ayman Dghoughi, Ian Díaz, Nizar ElKhoulfi
+30/11/2023
+M03 UF1 pp4
+Descripció: Programa que demana a l'usuari la introducció de 10 nombres
+sencers i mostra quants són positius, quants negatius i quants zero.
+"""
+
 try:
     nombres = input("Introdueix 10 nombres enters separats per espais: ")
     nums = nombres.split()
