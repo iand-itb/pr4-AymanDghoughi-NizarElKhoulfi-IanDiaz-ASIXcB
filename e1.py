@@ -20,7 +20,7 @@ try:
             positius += 1
         elif int(num) < 0:
             negatius += 1
-        elif int(num) == 0:
+        else:
             zeros += 1
 
     print("Has introduït " + str(positius) + " nombre/s positius, " + str(negatius) + " negatius, i " + str(zeros) + " zeros.")
